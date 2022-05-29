@@ -16,10 +16,7 @@ Visualização de Dados no Power B.I
 
 ###
 
-
-![GitHub Logo](Dashboard 1.png)
-   
-   
+      
 
 ###
 
