@@ -16,6 +16,9 @@ Visualização de Dados no Power B.I
 
 ###
 
+ <img src="https://raw.githubusercontent.com/Jussara31/vizualizacao-de-dados/main/Dashboard1.png"  width="300"/>
+ <img src="https://raw.githubusercontent.com/Jussara31/vizualizacao-de-dados/main/Dashboard1.png"  width="300"/>
+ <img src="https://raw.githubusercontent.com/Jussara31/vizualizacao-de-dados/main/Dashboard3.png"  width="300"/> 
  
 
 ###
