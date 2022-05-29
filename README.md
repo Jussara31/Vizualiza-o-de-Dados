@@ -16,7 +16,7 @@ Visualização de Dados no Power B.I
 
 ###
 
-![Dash 1](Dashboard 1 png)
+![Dash 1](Dashboard 1.png)
 ###
 
 Introdução:
