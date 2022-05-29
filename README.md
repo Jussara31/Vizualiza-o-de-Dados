@@ -15,7 +15,7 @@ Visualização de Dados no Power B.I
 * [Dataset](https://www.kaggle.com/datasets/datahackers/state-of-data-2021)
 
 ###
-![Dash1] (Dashboard 1.png)
+![Dash1](dashboard 1.png)
 
 
 
