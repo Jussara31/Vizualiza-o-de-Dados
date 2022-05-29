@@ -1,7 +1,7 @@
 ### Vizualizacao-de-Dados
 ###
 
-ANÁLSE DO PERFIL DO PROFISSIONAL DE DADOS NO BRASIL
+ANÁLISE DO PERFIL DO PROFISSIONAL DE DADOS NO BRASIL
 
 ###
 Realizado por: Jussara Silva
@@ -16,7 +16,17 @@ Visualização de Dados no Power B.I
 
 ###
 
-   ![Dash1](dashboard 1.png)
+
+
+
+   ![Dash1](Dashboard 1.png)
+   
+   
+   
+   
+   
+   
+   
 
 
 
