@@ -14,7 +14,9 @@ Visualização de Dados no Power B.I
 
 ###
 
-Introdução:
+#Introdução:
+###
+
 Hoje em dia, há um olhar cada vez mais crítico e analítico, ao que diz respeito ao Data Driven (tomar decisão baseada em Dados) e não mais de forma intuitiva, ou seja, tempos atrás ou até mesmo atuais, algumas empresas acreditam que a tomada de decisão, pode e deve ser baseado em intuição, ou simplesmente pelo fato de crenças limitantes, de que sempre foi resolvido assim, e é assim que permanecerá.
 Com tudo as mudanças foram evoluindo, e nos deparamos diante a um cenário no qual, a tecnologia está cada vez mais presente em nosso cotidiano, e cada vez mais precisamos ser assertivos na resolução de problemas ao nosso favor, e agregando assim muito valor ao negócio.
 O site Data Hacker (Maior comunidade de Dado no Brasil), juntamente com a Bain & Company (Consultoria Global), desenvolveram um pesquisa “ State of Data Brazi 2021, que se encontra no kaggle, onde pode contar com 2645 respondentes, com 356 variáveis sendo Qualitativa e Quantitativa, ocorrendo num período de 18/20/21 à 06/12/21.
